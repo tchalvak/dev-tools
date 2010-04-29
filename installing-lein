@@ -1,0 +1,4 @@
+wget http://github.com/technomancy/leiningen/raw/stable/bin/lein
+chmod 777 lein
+(Create a global symlink to the leiningen bash file)
+sudo ln -s /home/tchalvak/tools/lein /usr/local/bin/lein
